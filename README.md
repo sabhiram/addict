@@ -118,6 +118,3 @@ python -m unittest -v test_addict
 # - or -
 python test_addict.py
 ```
-
-###Testimonials
-@spiritsack - *"Mother of God, this changes everything."*
