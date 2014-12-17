@@ -1,5 +1,5 @@
 # addict - the Python Dict that's better than heroin.
-[![build Status](https://travis-ci.org/mewwts/addict.svg?branch=master)](https://travis-ci.org/mewwts/addict) [![Coverage Status](https://img.shields.io/coveralls/mewwts/addict.svg)](https://coveralls.io/r/mewwts/addict)
+[![build Status](https://travis-ci.org/sabhiram/addict.svg?branch=master)](https://travis-ci.org/sabhiram/addict) [![Coverage Status](https://img.shields.io/coveralls/sabhiram/addict.svg)](https://coveralls.io/r/sabhiram/addict)
 
 addict is a Python module that gives you a dictionary whose values are both gettable and settable using both attribute and getitem syntax.
 
